@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9c39122-b5bc-48d7-a7a6-daa73fb90400" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Middleware/CheckIsAuth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/CommentRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/LoginUserRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/RegisterUserRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/User.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/main.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://PHP/C:/xampp/htdocs/sajtPhp2/app/Models">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>$PROJECT_DIR$/app/Models</OriginalElement>
+              <nodes>
+                <node x="77.0" y="-157.0">\App\Models\Movie</node>
+                <node x="32.0" y="273.0">\App\Models\Menu</node>
+                <node x="242.0" y="269.0">\App\Models\Genre</node>
+                <node x="-275.0" y="-178.0">\App\Models\News</node>
+                <node x="506.0" y="262.0">\App\Models\IpAddress</node>
+                <node x="280.0" y="487.0">$PROJECT_DIR$/app/Models/Admin</node>
+                <node x="503.0" y="-120.0">\App\Models\ErrorLogs</node>
+                <node x="-322.0" y="88.0">\App\Models\User</node>
+                <node x="168.0" y="73.0">\App\Models\Activity</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="0.48879837067209775" x="159.0" y="169.0" />
+              <SelectedNodes>
+                <node>\App\Models\IpAddress</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constants</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://PHP/C:/xampp/htdocs/sajtPhp2/app/Models/Admin">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>$PROJECT_DIR$/app/Models/Admin</OriginalElement>
+              <nodes>
+                <node x="15.0" y="-136.0">\App\Models\Admin\Users</node>
+                <node x="51.0" y="204.0">\App\Models\Admin\Genres</node>
+                <node x="490.0" y="226.0">\App\Models\Admin\Comments</node>
+                <node x="-203.0" y="-136.0">\App\Models\Admin\Movies</node>
+                <node x="437.0" y="-123.0">\App\Models\Admin\News</node>
+                <node x="-237.0" y="206.0">\App\Models\Admin\Links</node>
+                <node x="270.0" y="210.0">\App\Models\Admin\Ratings</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="0.5292171995589857" x="206.49999999999994" y="104.5" />
+              <SelectedNodes>
+                <node>\App\Models\Admin\Comments</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constants</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://PHP/C:/xampp/htdocs/sajtPhp2/app/Http/Controllers">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>$PROJECT_DIR$/app/Http/Controllers</OriginalElement>
+              <nodes>
+                <node x="0.0" y="689.0">$PROJECT_DIR$/app/Http/Controllers/Admin</node>
+                <node x="113.0" y="689.0">$PROJECT_DIR$/app/Http/Controllers/Auth</node>
+                <node x="262.25" y="269.0">\App\Http\Controllers\FrontEndController</node>
+                <node x="365.0" y="190.0">\App\Http\Controllers\Controller</node>
+                <node x="422.25" y="291.5">\App\Http\Controllers\GenresController</node>
+                <node x="341.0" y="415.0">\App\Http\Controllers\LoginController</node>
+                <node x="164.0" y="448.0">\App\Http\Controllers\NewsController</node>
+                <node x="523.0" y="393.0">\App\Http\Controllers\MoviesController</node>
+                <node x="0.0" y="459.0">\App\Http\Controllers\ContactController</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="\App\Http\Controllers\ContactController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-59.5" />
+                  <point x="72.0" y="363.0" />
+                  <point x="279.75" y="363.0" />
+                  <point x="-52.5" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\MoviesController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-125.5" />
+                  <point x="609.5" y="363.0" />
+                  <point x="384.75" y="363.0" />
+                  <point x="52.5" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\NewsController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-70.5" />
+                  <point x="242.5" y="373.0" />
+                  <point x="314.75" y="373.0" />
+                  <point x="-17.5" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\GenresController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-14.5" />
+                  <point x="482.75" y="244.0" />
+                  <point x="428.75" y="244.0" />
+                  <point x="21.25" y="14.5" />
+                </edge>
+                <edge source="\App\Http\Controllers\LoginController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-103.5" />
+                  <point x="422.0" y="373.0" />
+                  <point x="349.75" y="373.0" />
+                  <point x="17.5" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\FrontEndController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-37.0" />
+                  <point x="332.25" y="244.0" />
+                  <point x="386.25" y="244.0" />
+                  <point x="-21.25" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.6703910614525139" x="348.0" y="454.0" />
+              <SelectedNodes>
+                <node>$PROJECT_DIR$/app/Http/Controllers/Admin</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constants</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://PHP/C:/xampp/htdocs/sajtPhp2/app/Http/Controllers/Admin">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>$PROJECT_DIR$/app/Http/Controllers/Admin</OriginalElement>
+              <nodes>
+                <node x="178.0" y="223.0">\App\Http\Controllers\Admin\ForUserController</node>
+                <node x="654.5" y="79.0">\App\Http\Controllers\FrontEndController</node>
+                <node x="553.0" y="223.0">\App\Http\Controllers\Admin\RatingController</node>
+                <node x="678.5" y="0.0">\App\Http\Controllers\Controller</node>
+                <node x="1265.0" y="223.0">\App\Http\Controllers\Admin\CommentsController</node>
+                <node x="1087.0" y="223.0">\App\Http\Controllers\Admin\LinkController</node>
+                <node x="731.0" y="223.0">\App\Http\Controllers\Admin\NewsController</node>
+                <node x="375.00000000000006" y="223.0">\App\Http\Controllers\Admin\MoviesController</node>
+                <node x="909.0" y="223.0">\App\Http\Controllers\Admin\GenresController</node>
+                <node x="0.0" y="223.0">\App\Http\Controllers\Admin\UsersController</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="\App\Http\Controllers\Admin\UsersController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-114.5" />
+                  <point x="79.0" y="173.0" />
+                  <point x="662.8125" y="173.0" />
+                  <point x="-58.1875" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\Admin\MoviesController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-114.5" />
+                  <point x="454.00000000000006" y="193.0" />
+                  <point x="696.0625" y="193.0" />
+                  <point x="-24.9375" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\Admin\RatingController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-114.5" />
+                  <point x="632.0" y="203.0" />
+                  <point x="712.6875" y="203.0" />
+                  <point x="-8.3125" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\Admin\ForUserController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-114.5" />
+                  <point x="266.5" y="183.0" />
+                  <point x="679.4375" y="183.0" />
+                  <point x="-41.5625" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\Admin\CommentsController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-114.5" />
+                  <point x="1344.0" y="173.0" />
+                  <point x="779.1875" y="173.0" />
+                  <point x="58.1875" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\Admin\LinkController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="5.6843418860808015E-14" y="-114.5" />
+                  <point x="1166.0" y="183.0" />
+                  <point x="762.5625" y="183.0" />
+                  <point x="41.5625" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\Admin\NewsController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-114.5" />
+                  <point x="810.0" y="203.0" />
+                  <point x="729.3125" y="203.0" />
+                  <point x="8.3125" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\FrontEndController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-37.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="\App\Http\Controllers\Admin\GenresController" target="\App\Http\Controllers\FrontEndController">
+                  <point x="0.0" y="-114.5" />
+                  <point x="988.0" y="193.0" />
+                  <point x="745.9375" y="193.0" />
+                  <point x="24.9375" y="37.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.3086816720257235" x="2374.333333333333" y="1052.578125" />
+              <SelectedNodes>
+                <node>\App\Http\Controllers\Admin\ForUserController</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constants</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>storks</find>
+      <find>lis</find>
+      <find>color</find>
+      <find>contact</find>
+      <find>mrdaj</find>
+      <find>dropdown</find>
+      <find>.dropdown</find>
+      <find>multi-column-dropdown</find>
+      <find>navbar-form</find>
+      <find>mrda</find>
+      <find>formular</find>
+      <find>potvrdi</find>
+      <find>eror</find>
+      <find>dugm</find>
+      <find>srch</find>
+      <find>mosa</find>
+      <find>navbar default-sidebar</find>
+      <find>navbar</find>
+      <find>loginf</find>
+      <find>naslov</find>
+      <find>mka</find>
+      <find>login</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/components/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/common/nav.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/common/head.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/users.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/MoviesController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/CheckIp.php" />
+        <option value="$PROJECT_DIR$/public/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/resources/views/movie-list.blade.php" />
+        <option value="$PROJECT_DIR$/server.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/common/footer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/addresses.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/common/head.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/sb-admin-2.js" />
+        <option value="$PROJECT_DIR$/resources/views/admin/activities.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/Admin/Ratings.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/ForUserController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/CommentsController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/common/nav.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/GenreRequest.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/RatingRequest.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/RatingController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/admin.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/errors.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/Admin/Users.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/users/edit.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/UsersController.php" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/resources/views/admin/news/edit.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/adminPanel.js" />
+        <option value="$PROJECT_DIR$/app/Models/Admin/News.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/NewsController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/MoviesController.php" />
+        <option value="$PROJECT_DIR$/app/Models/Admin/Movies.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/news/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/ratings/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/movies/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/users/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/genres/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/genres/edit.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/Admin/Genres.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/GenresController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/LinkController.php" />
+        <option value="$PROJECT_DIR$/app/Models/Admin/Links.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/links/edit.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/links/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/Admin/Comments.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/comments/index.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ContactController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/FrontEndController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-13" />
+    <option name="y" value="2" />
+    <option name="width" value="2273" />
+    <option name="height" value="1338" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sajtPhp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sajtPhp2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sajtPhp2\resources\views\admin\users" />
+      <recent name="C:\xampp\htdocs\sajtPhp2\resources\views\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c39122-b5bc-48d7-a7a6-daa73fb90400" name="Default Changelist" comment="" />
+      <created>1551212059909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551212059909</updated>
+      <workItem from="1551212061815" duration="2034000" />
+      <workItem from="1551298701348" duration="6669000" />
+      <workItem from="1551431949525" duration="30691000" />
+      <workItem from="1551478852144" duration="26000" />
+      <workItem from="1551519892209" duration="12787000" />
+      <workItem from="1551703635037" duration="30368000" />
+      <workItem from="1551780676241" duration="34231000" />
+      <workItem from="1551817442030" duration="58000" />
+      <workItem from="1551894077680" duration="19296000" />
+      <workItem from="1551951607200" duration="44533000" />
+      <workItem from="1552062887877" duration="232000" />
+      <workItem from="1552144378956" duration="22396000" />
+      <workItem from="1552492931417" duration="19893000" />
+      <workItem from="1552595671974" duration="9843000" />
+      <workItem from="1552640844564" duration="23968000" />
+      <workItem from="1552681594533" duration="46000" />
+      <workItem from="1552764135530" duration="86000" />
+      <workItem from="1552769662208" duration="6951000" />
+      <workItem from="1552777204111" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="264489000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2153518" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.12987013" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.12987013" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/common/nav.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/links/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/errors.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="427" column="28" lean-forward="true" selection-start-line="427" selection-start-column="28" selection-end-line="427" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/adminPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="267" lean-forward="true" selection-start-line="267" selection-end-line="267" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/common/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4484" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/common/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FrontEndController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ContactController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GenresController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MoviesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/NewsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CommentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="89" column="6" lean-forward="true" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+          <folding>
+            <element signature="e#46#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ForUserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/GenresController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="112" column="34" lean-forward="true" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="34" />
+          <folding>
+            <element signature="e#46#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/LinkController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="135" column="31" lean-forward="true" selection-start-line="135" selection-start-column="31" selection-end-line="135" selection-end-column="31" />
+          <folding>
+            <element signature="e#46#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/MoviesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="161" column="9" lean-forward="true" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
+          <folding>
+            <element signature="e#46#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/NewsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+          <folding>
+            <element signature="e#46#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/RatingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="157" column="39" lean-forward="true" selection-start-line="157" selection-start-column="39" selection-end-line="157" selection-end-column="39" />
+          <folding>
+            <element signature="e#46#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Activity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/ErrorLogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Genre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/IpAddress.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Movie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/News.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Admin/Comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Admin/Genres.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Admin/Links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Admin/Movies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="e#114#148#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Admin/News.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Admin/Ratings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Admin/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#101#126#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/CheckIp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/CheckIsAuth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/CommentRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/LoginUserRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/RegisterUserRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://PHP/C:/xampp/htdocs/sajtPhp2/app/Models">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/app/Models</OriginalElement>
+          <nodes>
+            <node x="77.0" y="-157.0">\App\Models\Movie</node>
+            <node x="32.0" y="273.0">\App\Models\Menu</node>
+            <node x="242.0" y="269.0">\App\Models\Genre</node>
+            <node x="-275.0" y="-178.0">\App\Models\News</node>
+            <node x="506.0" y="262.0">\App\Models\IpAddress</node>
+            <node x="280.0" y="487.0">$PROJECT_DIR$/app/Models/Admin</node>
+            <node x="503.0" y="-120.0">\App\Models\ErrorLogs</node>
+            <node x="-322.0" y="88.0">\App\Models\User</node>
+            <node x="168.0" y="73.0">\App\Models\Activity</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.48879837067209775" x="159.0" y="169.0" />
+          <SelectedNodes>
+            <node>\App\Models\IpAddress</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/C:/xampp/htdocs/sajtPhp2/app/Models/Admin">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/app/Models/Admin</OriginalElement>
+          <nodes>
+            <node x="15.0" y="-136.0">\App\Models\Admin\Users</node>
+            <node x="51.0" y="204.0">\App\Models\Admin\Genres</node>
+            <node x="490.0" y="226.0">\App\Models\Admin\Comments</node>
+            <node x="-203.0" y="-136.0">\App\Models\Admin\Movies</node>
+            <node x="437.0" y="-123.0">\App\Models\Admin\News</node>
+            <node x="-237.0" y="206.0">\App\Models\Admin\Links</node>
+            <node x="270.0" y="210.0">\App\Models\Admin\Ratings</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5292171995589857" x="206.49999999999994" y="104.5" />
+          <SelectedNodes>
+            <node>\App\Models\Admin\Comments</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/C:/xampp/htdocs/sajtPhp2/app/Http/Controllers">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/app/Http/Controllers</OriginalElement>
+          <nodes>
+            <node x="0.0" y="689.0">$PROJECT_DIR$/app/Http/Controllers/Admin</node>
+            <node x="113.0" y="689.0">$PROJECT_DIR$/app/Http/Controllers/Auth</node>
+            <node x="262.25" y="269.0">\App\Http\Controllers\FrontEndController</node>
+            <node x="365.0" y="190.0">\App\Http\Controllers\Controller</node>
+            <node x="422.25" y="291.5">\App\Http\Controllers\GenresController</node>
+            <node x="341.0" y="415.0">\App\Http\Controllers\LoginController</node>
+            <node x="164.0" y="448.0">\App\Http\Controllers\NewsController</node>
+            <node x="523.0" y="393.0">\App\Http\Controllers\MoviesController</node>
+            <node x="0.0" y="459.0">\App\Http\Controllers\ContactController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\App\Http\Controllers\ContactController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-59.5" />
+              <point x="72.0" y="363.0" />
+              <point x="279.75" y="363.0" />
+              <point x="-52.5" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\MoviesController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-125.5" />
+              <point x="609.5" y="363.0" />
+              <point x="384.75" y="363.0" />
+              <point x="52.5" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\NewsController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-70.5" />
+              <point x="242.5" y="373.0" />
+              <point x="314.75" y="373.0" />
+              <point x="-17.5" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\GenresController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-14.5" />
+              <point x="482.75" y="244.0" />
+              <point x="428.75" y="244.0" />
+              <point x="21.25" y="14.5" />
+            </edge>
+            <edge source="\App\Http\Controllers\LoginController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-103.5" />
+              <point x="422.0" y="373.0" />
+              <point x="349.75" y="373.0" />
+              <point x="17.5" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\FrontEndController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-37.0" />
+              <point x="332.25" y="244.0" />
+              <point x="386.25" y="244.0" />
+              <point x="-21.25" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6703910614525139" x="348.0" y="454.0" />
+          <SelectedNodes>
+            <node>$PROJECT_DIR$/app/Http/Controllers/Admin</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/C:/xampp/htdocs/sajtPhp2/app/Http/Controllers/Admin">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/app/Http/Controllers/Admin</OriginalElement>
+          <nodes>
+            <node x="178.0" y="223.0">\App\Http\Controllers\Admin\ForUserController</node>
+            <node x="654.5" y="79.0">\App\Http\Controllers\FrontEndController</node>
+            <node x="553.0" y="223.0">\App\Http\Controllers\Admin\RatingController</node>
+            <node x="678.5" y="0.0">\App\Http\Controllers\Controller</node>
+            <node x="1265.0" y="223.0">\App\Http\Controllers\Admin\CommentsController</node>
+            <node x="1087.0" y="223.0">\App\Http\Controllers\Admin\LinkController</node>
+            <node x="731.0" y="223.0">\App\Http\Controllers\Admin\NewsController</node>
+            <node x="375.00000000000006" y="223.0">\App\Http\Controllers\Admin\MoviesController</node>
+            <node x="909.0" y="223.0">\App\Http\Controllers\Admin\GenresController</node>
+            <node x="0.0" y="223.0">\App\Http\Controllers\Admin\UsersController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\App\Http\Controllers\Admin\UsersController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-114.5" />
+              <point x="79.0" y="173.0" />
+              <point x="662.8125" y="173.0" />
+              <point x="-58.1875" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\Admin\MoviesController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-114.5" />
+              <point x="454.00000000000006" y="193.0" />
+              <point x="696.0625" y="193.0" />
+              <point x="-24.9375" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\Admin\RatingController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-114.5" />
+              <point x="632.0" y="203.0" />
+              <point x="712.6875" y="203.0" />
+              <point x="-8.3125" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\Admin\ForUserController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-114.5" />
+              <point x="266.5" y="183.0" />
+              <point x="679.4375" y="183.0" />
+              <point x="-41.5625" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\Admin\CommentsController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-114.5" />
+              <point x="1344.0" y="173.0" />
+              <point x="779.1875" y="173.0" />
+              <point x="58.1875" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\Admin\LinkController" target="\App\Http\Controllers\FrontEndController">
+              <point x="5.6843418860808015E-14" y="-114.5" />
+              <point x="1166.0" y="183.0" />
+              <point x="762.5625" y="183.0" />
+              <point x="41.5625" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\Admin\NewsController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-114.5" />
+              <point x="810.0" y="203.0" />
+              <point x="729.3125" y="203.0" />
+              <point x="8.3125" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\FrontEndController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-37.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="\App\Http\Controllers\Admin\GenresController" target="\App\Http\Controllers\FrontEndController">
+              <point x="0.0" y="-114.5" />
+              <point x="988.0" y="193.0" />
+              <point x="745.9375" y="193.0" />
+              <point x="24.9375" y="37.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.3086816720257235" x="2374.333333333333" y="1052.578125" />
+          <SelectedNodes>
+            <node>\App\Http\Controllers\Admin\ForUserController</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
